@@ -768,6 +768,7 @@ visibility: hidden;
 
     width: 50%;
     object-fit: cover;
+    box-shadow: none;
   }
 
   .foto3, .foto32, .foto33{
